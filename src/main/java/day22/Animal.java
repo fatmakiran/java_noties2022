@@ -6,6 +6,8 @@ public class Animal {
         System.out.println("Animals eat...");
     }
 
+
+
     public Animal createAnimal(){
         return new Animal();
     }
